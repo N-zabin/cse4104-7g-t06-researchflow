@@ -33,15 +33,16 @@ ResearchFlow is an AI-powered research management platform that helps students a
 
 4. Technology Stack
 
-Category| Technology
-Frontend| React.js, JavaScript, HTML5, CSS3
-Backend| Django (Python), REST API
-Database| PostgreSQL
-AI Integration| Google Gemini API
-Multi-Agent Framework| LangGraph
-Academic APIs| OpenAlex API, Crossref API
-Version Control| Git and GitHub
-Deployment| Render, Vercel
+| Category | Technology |
+|---|---|
+| Frontend | React.js, JavaScript, HTML5, CSS3 |
+| Backend | Django (Python), REST API |
+| Database | PostgreSQL |
+| AI Integration | Google Gemini API |
+| Multi-Agent Framework | LangGraph (Multi-Agent Workflows) |
+| Academic APIs | OpenAlex API, Crossref API |
+| Version Control | Git and GitHub |
+| Deployment | Render (Backend), Vercel (Frontend) |
 
 5. Project Objectives
 
