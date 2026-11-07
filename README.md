@@ -12,10 +12,11 @@ ResearchFlow is an AI-powered research management platform that helps students a
 - Section: 7G
 - Course: Software Development III
 
-Member Name| Student ID| Responsibility
-Fahim Mahmood| 11230321489| Team Leader & Backend Development
-Adiba Ahmed Jhilik| 11230321485| Frontend Development
-Mehezabin Maria| 11230321314| AI Integration, Database Management & Research Analysis
+| Team Member Name | Student ID | Responsibility |
+|---|---|---|
+| Fahim Mahmood | 11230321489 | Team Leader & Backend Development |
+| Adiba Ahmed Jhilik | 11230321485 | Frontend Development |
+| Mehezabin Maria | 11230321314 | AI Integration, Database Management & Research Analysis |
 
 3. Proposed Features
 
